@@ -1,0 +1,19 @@
+.product{
+
+    background-color: aqua;
+    width: 100px;
+    padding: 10px;
+}
+.product1{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    background-color: seagreen;
+}
+
+div>h1>img,img{
+    border-radius: 50%;
+    box-shadow: red;
+    border: red;
+    border-width: 2px;
+}
